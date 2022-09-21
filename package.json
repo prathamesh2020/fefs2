@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "fsfe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chase",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamesh2020/fefs2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prathamesh2020/fefs2/issues"
+  },
+  "homepage": "https://github.com/prathamesh2020/fefs2#readme"
+}
